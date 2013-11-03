@@ -1,3 +1,8 @@
+---
+layout: default
+title: Getting Started
+---
+
 <p>After logging in and selecting your Basecamp account, you should be presented with a list of projects in that account. &nbsp;In the example screen shot below, we have three different projects in our account.</p>
 
 <p><img alt="" height="239" src="https://projectite-cdn.s3.amazonaws.com/images/project_list.png" width="430" /></p>
