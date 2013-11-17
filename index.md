@@ -14,5 +14,5 @@ title: Getting Started
 ## Customer Support
 - Email: [support@projectite.com](mailto:support@projectite.com)
 
-## Product Plug
+### External Product Plug
 - Do you Scrum or Kanban with your Basecamp project?  Check out [ScrumDo](http://www.scrumdo.com/)
