@@ -6,15 +6,18 @@ title: Projectite Pricing
 #Projectite Pricing
 ----
 
-#The simplest pricing you've seen.  
-##No per user pricing.  No complicated feature-matrix.  No slick pricing page.
-#$24/Month  
+#The simplest pricing you've seen.
 
-#Paying Anually?  Only $18/Month
-  
+* One subscription plan
+* No per user pricing
+* No complicated feature-matrix
+* No slick pricing page
 
-
-
+## $18/month If paid Annualy, $24/month otherwise
+----
+# What does that give you?
+* Unlimited access to Projectite for one Basecamp Account
+* Works for all of your Basecamp projects
+* Anybody who has access to your Basecamp account can log in and use Projectite with their Basecamp username/password
+     
     
-    That lets you use Projectite on all of your projects on one Basecamp account.  
-    Anybody who has access to your Basecamp account can log in and use Projectite.
