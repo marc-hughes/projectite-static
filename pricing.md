@@ -13,7 +13,7 @@ title: Projectite Pricing
 * No complicated feature-matrix
 * No slick pricing page
 
-## $18/month If paid Annualy, $24/month otherwise
+## $10/month If paid Annualy, $15/month otherwise
 ----
 # What does that give you?
 * Unlimited access to Projectite for one Basecamp Account
